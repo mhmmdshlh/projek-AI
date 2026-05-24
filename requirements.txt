@@ -1,4 +1,4 @@
-flask
+streamlit
 joblib
 scikit-learn
 xgboost
